@@ -1,0 +1,12 @@
+.overlay{
+	height: 100%;
+	width: 100%;
+	background: rgba(255,255,255,.5);
+}
+h1{
+  color:#FFFFFF;
+  -webkit-animation: none;
+  -moz-animation: none;
+  animation: none;
+}
+
